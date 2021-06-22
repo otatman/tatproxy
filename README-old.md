@@ -1,2 +1,2 @@
 # tat-proxy
-Proxy for communication between TAT mobile app and salesforce
+Proxy for communication between TAT mobile app and salesforce. Jtatman version
